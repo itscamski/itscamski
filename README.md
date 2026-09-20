@@ -1,14 +1,22 @@
 # Cameron
 
-> cs @ sdsu • preparing for the craziest lock-in of all time
+Computer Science student at SDSU, currently exploring software engineering, machine learning, and game development.
 
-### currently
+## currently
 
-- studying computer science
 - learning machine learning
-- getting into game development
-- building whatever sounds interesting
+- getting more comfortable with C++ and Python
+- experimenting with game development
+- building projects that force me to learn something new
 
-### languages
+## interests
+
+`game development` `machine learning` `software engineering`
+
+## languages
 
 `C++` `Java` `Python` `JavaScript`
+
+## the plan
+
+build more. learn more. ship more.
