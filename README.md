@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Cameron Penaranda" width="100%">
+</p>
+
 # Cameron Penaranda
 
 Computer Science student at SDSU, currently exploring software engineering, machine learning, and game development.
